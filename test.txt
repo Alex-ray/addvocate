@@ -1,0 +1,7 @@
+just some plain old text 
+that does not mean anything
+trying to remove new line
+characters
+just some 
+plain old
+aa bbb a b a b aa b
