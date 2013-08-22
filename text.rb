@@ -7,7 +7,7 @@ def getFilePrompt
   gets.chomp
 end
 
-filename = ARGV.first ? ARGV.first : filename = getFilePrompt
+filename = ARGV.first ? ARGV.first : getFilePrompt
 
 until (filename.match(/.txt$/))
   puts "Not a text file."
