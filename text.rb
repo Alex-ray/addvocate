@@ -22,7 +22,7 @@ text.gsub("\n", " ")
 occur = occur.sort_by { |word, num| [num, word]}
 occur.each { |pair| puts "#{pair[0]}: #{pair[1]}" }
 
-# type in test.txt at command prompt
+# type ruby text.rb to start app
 
 
 
